@@ -1,0 +1,12 @@
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.map
+*.Administrator
+*.bak
+*.uvoptx
+*.dep
+*.lst
